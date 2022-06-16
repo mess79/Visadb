@@ -1,1 +1,0 @@
-# Workers project for API from Mongodb
